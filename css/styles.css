@@ -1,0 +1,18 @@
+body {
+  padding: 20px 0;
+  font-family: font-family: 'Open Sans Condensed', sans-serif;;
+  color: #2d3c49;
+  background: #fff;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+hr {
+  border-top: 4px solid #bbb;
+}
+
+.project-featured {
+  color: #7d97ad;
+}
