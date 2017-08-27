@@ -1,11 +1,9 @@
 body {
   padding: 20px 0;
-  font-family: font-family: 'Open Sans Condensed', sans-serif;;
+  font-family: font-family: 'Open Sans', sans-serif;
   color: #2d3c49;
   background: #fff;
 }
-
-
 
 .text-thin {
   font-weight: 100;
@@ -25,4 +23,8 @@ hr {
 
 .project-featured {
   color: #7d97ad;
+}
+
+footer {
+  text-align: center;
 }
