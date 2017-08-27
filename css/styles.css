@@ -1,22 +1,33 @@
+/* Header */
+header {
+    border-bottom: 4px solid #7d97ad;
+}
+
+/* Body */
 body {
   padding: 20px 0;
-  font-family: font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #2d3c49;
 }
 
+/* Images */
 img {
     max-width: 100%;
     height: auto;
 }
 
+/* Logo */
+.Logo {
+  height: 7em;
+  width: 7em;
+}
+
+/* Fonts */
 .text-thin {
   font-weight: 100;
 }
 
-hr {
-  border-top: 4px solid #7d97ad;
-}
-
+/* Main Content */
 .project-title {
   text-align: center;
 }
@@ -27,8 +38,14 @@ hr {
 
 .project-featured {
   color: #7d97ad;
+  padding-left: 8px;
 }
 
+.project-description {
+  text-align: center;
+}
+
+/* Footer */
 footer {
   text-align: center;
 }
